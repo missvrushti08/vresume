@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: lightseagreen;
+}
+.navbar{
+    z-index: 999;
+}
+.banner .banner-content span{
+    font-size: 20px;
+}
+.banner .banner-content button{
+    width: 150px;
+    height: 40%;
+    background-color: white;
+    color: black;
+}
+.banner-image{
+    margin-left: 20px;
+    margin-right: 20px;
+} 
+.me
+{
+padding:20px;
+margin:20px auto;
+/* background-color:rgb(67, 57, 57); */
+
+}
+
+.project1{
+    background-color: rgb(28, 28, 29);
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 30px;
+ 
+}
+.education-item{
+    background-color: rgb(31, 30, 30);
+}
